@@ -5,7 +5,7 @@ progetto universitario valido per esame di Laboratorio III
 il progetto di compone di 3 sottocartelle:
 - bin
     - contiene tutti i file .class creati dal compilatore, il file ***words.txt*** e i file per la configurazione sia del client che del server, che sono:
-      -**WMainServer.java**
+          -**WMainServer.java**
 - **WMainClient.java**
 - **Wordle.java**
 - **TaskWord.java**
