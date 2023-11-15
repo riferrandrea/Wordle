@@ -7,8 +7,8 @@ il progetto di compone di 3 sottocartelle:
     - contiene tutti i file .class creati dal compilatore, il file ***words.txt*** e i file per la configurazione sia del client che del server
  
 - libs
-      -contiene le librerie utilizzate nel progetto, in questo caso ***gson-2.10*** (non presente)
--src
+    - contiene le librerie utilizzate nel progetto, in questo caso ***gson-2.10*** (non presente)
+- src
     - contiene i file .java, ovvero: **WMainServer.java**, **WMainClient.java**, **Wordle.java**, **TaskWord.java**, **Accounts.java**
 
 ## Funzionalità
