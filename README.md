@@ -10,4 +10,4 @@ progetto universitario valido per esame di Laboratorio III
 
 ## Funzionalità
 ### WMainClient
-Il cuore del progetto consiste nella comunicazione client-server tramite una connessione TCP, la quale mette in contatto i due main program, ```bash WMainServer ```
+Il cuore del progetto consiste nella comunicazione client-server tramite una connessione TCP, la quale mette in contatto i due main program, ```WMainServer ``` ***wmainserver***
